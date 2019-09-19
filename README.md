@@ -34,6 +34,6 @@ NOM DU LANGAGE
 ```
 
 ## Contact
-N'hésitez pas à nous contacter pour toute question sur ce projet ou idée d'améliorations !
-email: cpumons@umons.ac.be
+N'hésitez pas à nous contacter pour toute question sur ce projet ou idée d'améliorations !<br/>
+email: cpumons@umons.ac.be<br/>
 facebook: www.facebook.com/cpumons
